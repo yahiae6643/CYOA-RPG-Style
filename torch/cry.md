@@ -2,4 +2,4 @@
 
 He ruthlessly decapitates you with his sword. 
 
-[Back to the beginning](../README.md)
+[Back to the beginning](../beginning.md)
