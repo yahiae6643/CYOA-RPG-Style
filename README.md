@@ -6,3 +6,5 @@
 Click [here](beginning.md) to begin the dungeon!
 
 Click [here](https://docs.google.com/drawings/d/12vCRomKLq9Z-J_rtPgAcNdkNLzcYYSyHgG4pk0k9mEE/edit?usp=sharing) to see our planning diagram for the project!
+
+Made by [Jackson Wu](https://github.com/jacksonw4881) and [Yahia Elhag](https://github.com/yahiae6643) 
