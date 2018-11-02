@@ -1,4 +1,4 @@
 # Spell
-He casts a spell with his book and you into ash. 
+He casts a spell with his book and turns you into ash. 
 
 [Back to the beginning](../README.md)
