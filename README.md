@@ -1,5 +1,5 @@
 # The Dungeon!
-> You are a warrior armed with a sword wandering in the forest who encounter a 3 path dungeon. Each of these paths are dangerous but one leads to an exit. Choose wisely reader.
+> You are a warrior wandering in the forest who encounter a 3 path dungeon. Each of these paths are dangerous but one leads to an exit. Choose wisely reader.
 
 **_The purpose of this project was to create an interactive adventure with the use of linking files. You are the main character and choose different actions that would lead to different scenes and situations_**
 
