@@ -4,7 +4,7 @@ You are a warrior and decided to explore the 3 path dungeon you just found, whic
 ### [The very dark and mysterious path](dark_path/faint-noise.md) to the middle
 ### [The well-lit path](torch/oldman.md) to the left 
 
-![paths](../images/3_paths.jpg)
+![paths](images/3_paths.jpg)
 
 `credit: lonelyboy214 from deviantart.com`
 
