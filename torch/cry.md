@@ -1,6 +1,6 @@
 He ruthlessly decapitates you with his sword. 
 
-![chopped off](../images/torch/gladiator.jpg)  
-`credit: "Gladiator" from collegeoflore.com/archetype/gladiator/`
+![decapitation](../images/lit/decapitation.jpg)  
+`credit: Tom Morgan-Jones from inkymess.com`
 
 ### [Back to the beginning](../beginning.md)

@@ -7,5 +7,3 @@ You are a warrior and decided to explore the 3 path dungeon you just found, whic
 ![paths](images/blood/3_paths.jpg)
 
 `credit: lonelyboy214 from deviantart.com`
-
-
