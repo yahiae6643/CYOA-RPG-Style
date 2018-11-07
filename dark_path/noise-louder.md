@@ -2,4 +2,5 @@ The wailing starts to become louder and louder. The sound pierces your ears. **Y
 
 ![sound](../images/dark/sound.jpg)
 
+`credit: Phys.org`
 ### [Continue to walk](noise-at-its-highest.md)
